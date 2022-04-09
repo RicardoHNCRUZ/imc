@@ -72,7 +72,7 @@ public class AppTest
     public void shouldCalculateObesidade()
     {
         // arrange
-        double altura = 1.77
+        double altura = 1.77;
         double peso = 100;
 
         // act

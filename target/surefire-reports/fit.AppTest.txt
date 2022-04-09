@@ -1,11 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: fit.AppTest
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.181 s <<< FAILURE! - in fit.AppTest
-shouldCalculateObesidade(fit.AppTest)  Time elapsed: 0.013 s  <<< ERROR!
-java.lang.Error: 
-Unresolved compilation problem: 
-	Syntax error, insert ";" to complete BlockStatements
-
-	at fit.AppTest.shouldCalculateObesidade(AppTest.java:75)
-
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.17 s - in fit.AppTest
